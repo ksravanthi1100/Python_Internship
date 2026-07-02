@@ -1,23 +1,35 @@
 # Python Internship Projects
 
 ## Overview
-
-This repository contains Python projects completed as part of my Python Internship. These projects helped me practice Python programming, problem-solving, and basic application development.
+This repository contains Python projects completed as part of my Python Internship. These projects helped me improve my programming skills, problem-solving abilities, and understanding of Python fundamentals.
 
 ## Projects
 
 ### 1. Hangman Game
-
-* A simple word guessing game developed using Python.
-* Demonstrates loops, conditional statements, functions, and string manipulation.
+- A word guessing game developed using Python.
+- Concepts Used:
+  - Loops
+  - Conditional Statements
+  - Functions
+  - String Manipulation
 
 ### 2. Stock Portfolio Tracker
+- A Python application to manage and track a simple stock portfolio.
+- Concepts Used:
+  - Dictionaries
+  - User Input
+  - Loops
+  - Basic Calculations
 
-* A Python program to manage a simple stock portfolio.
-* Demonstrates the use of dictionaries, user input, loops, and calculations.
+### 3. Basic Chatbot
+- A simple rule-based chatbot that interacts with users through predefined responses.
+- Concepts Used:
+  - Conditional Statements
+  - Functions
+  - Loops
+  - String Handling
+  - User Input
 
 ## Technologies Used
-
-* Python 3
-* Visual Studio Code.
-
+- Python 3
+- Visual Studio Code
