@@ -28,7 +28,8 @@ This repository contains Python projects completed as part of my Python Internsh
   - Functions
   - Loops
   - String Handling
-  - User Input
+ 
+  
 
 ## Technologies Used
 - Python 3
